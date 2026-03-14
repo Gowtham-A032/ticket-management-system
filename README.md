@@ -43,7 +43,6 @@ The system is divided into modules:
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/TicketManagementSystem.git
+## output image
+![image](https://image2url.com/r2/default/images/1773493327293-31606dd0-5c3a-4026-a4ae-81500ef72a24.png)
+![image](https://image2url.com/r2/default/images/1773493396936-54b4c851-85c4-4e85-b0c2-3655e376903d.png)
