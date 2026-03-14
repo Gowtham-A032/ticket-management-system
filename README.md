@@ -44,6 +44,6 @@ The system is divided into modules:
 ---
 
 ## output image
- 
+ https://image2url.com/r2/default/images/1773493396936-54b4c851-85c4-4e85-b0c2-3655e376903d.png
 
 
