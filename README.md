@@ -44,6 +44,9 @@ The system is divided into modules:
 ---
 
 ## output image
+![Output Image 1](https://github.com/Gowtham-A032/ticket-management-system/blob/main/image/WhatsApp%20Image%202026-03-18%20at%2011.43.03%20PM.jpeg)
 
+![Output Image 2](https://github.com/Gowtham-A032/ticket-management-system/blob/main/image/WhatsApp%20Image%202026-03-18%20at%2011.43.04%20PM%20(1).jpeg)
 
+![Output Image 3](https://github.com/Gowtham-A032/ticket-management-system/blob/main/image/WhatsApp%20Image%202026-03-18%20at%2011.43.04%20PM.jpeg)
 
